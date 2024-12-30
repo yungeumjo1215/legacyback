@@ -5,7 +5,8 @@ info:
   version: 1.0.0
 
 servers:
-  - url: http://localhost:8000
+  - url: http://a.seunghyeon.site
+    # - url: https://back.seunghyeon.site
     description: 개발 서버
 
 # 태그 정의 추가
